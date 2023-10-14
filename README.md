@@ -1,4 +1,4 @@
-# React Native Job Search Application
+# React Native Job Search Application (still working on it)
 
 This React Native job search application allows users to search and filter jobs, view job details, and connects to an API to provide real-time job data. It is designed following best development practices, UX/UI principles, component reusability, and utilizes hooks and states.
 
