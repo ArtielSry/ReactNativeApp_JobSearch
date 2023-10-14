@@ -2,6 +2,8 @@
 
 This React Native job search application allows users to search and filter jobs, view job details, and connects to an API to provide real-time job data. It is designed following best development practices, UX/UI principles, component reusability, and utilizes hooks and states.
 
+![ui](https://github.com/ArtielSry/ReactNativeApp_JobSearch/assets/113340763/df08e8cd-516d-486c-8f60-fc62aaabc16e)
+
 ## Features
 
 Job search by keyword and location.
